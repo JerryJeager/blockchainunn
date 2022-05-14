@@ -31,7 +31,7 @@ a{
     font-size: 15px;
     display: block;
     text-decoration: none;
-    font-family: 'Zen Loop', cursive;
+font-family: 'Shadows Into Light', cursive;
     text-align: center;
     position: relative;
    bottom: 40px;
@@ -64,7 +64,7 @@ a{
     width: 300px;
     /* display: flex; */
     margin: 0 auto;
-    font-family: 'Zen Loop', cursive;
+font-family: 'Cabin', sans-serif;
 }
 #gallery{
     display: flex;
@@ -90,3 +90,5 @@ a{
         max-width: 100%;
         height: auto;
 }
+/* font-family: 'Source Code Pro',
+monospace; */
