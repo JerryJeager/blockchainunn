@@ -26,7 +26,7 @@ right: 20px;
    left: 22px;
 
 }
-a{
+#navigation{
     color:rgba(46, 94, 17, 1);
     font-size: 15px;
     display: block;
@@ -98,4 +98,13 @@ footer{
     height: auto;
     position: relative;
     bottom: 14px;
+    /* height: 130px; */
+}
+#contactus{
+    text-align: center;
+    
+}
+#footerlinks{
+    text-decoration: none;
+    color:rgba(8, 28, 5, 1)
 }
