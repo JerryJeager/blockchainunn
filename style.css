@@ -41,6 +41,7 @@ a{
     width: 100%;
     max-width: 100%;
     height: auto;
+    border-radius: 10px;
 }
 #head{
     font-family: 'Inconsolata', monospace;
@@ -76,8 +77,8 @@ a{
 }
 #thirdimage{
     width: 50%;
-        /* max-width: 100%; */
-        height: 209px;
+        max-width: 100%;
+        height: 299px;
 }
 #fourthimage{
     width: 100%;
