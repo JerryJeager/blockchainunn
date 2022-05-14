@@ -92,3 +92,10 @@ font-family: 'Cabin', sans-serif;
 }
 /* font-family: 'Source Code Pro',
 monospace; */
+footer{
+    background: #aaa;
+    width: 100%;
+    height: auto;
+    position: relative;
+    bottom: 14px;
+}
