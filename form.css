@@ -34,3 +34,74 @@
     bottom: 270px;
 
 }
+#form{
+    width: 340px;
+    height: auto;
+    background: rgba(2, 26, 6, 0.849);
+    position: relative;
+    bottom: 160px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+input {
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    font-family: 'Nunito', sans-serif;
+    width: 80%;
+}
+
+.formcontent {
+    padding: 8px;
+    position: relative;
+    left: 25px;
+    bottom: 20px;
+}
+
+select {
+    width: 200px;
+    height: 24px;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 5px;
+    color: lightsalmon;
+    filter: grayscale(100%);
+}
+
+#delivery {
+    width: 20px;
+    height: 13px;
+}
+
+#submit {
+    border-radius: 10px;
+    height: 40px;
+    font-size: 16px;
+    background: rgb(50, 187, 8);
+    position: relative;
+    left: 110px;
+}
+
+#timeofday {
+    width: 20px;
+    height: 13px;
+}
+footer {
+    background: #aaa;
+    width: 100%;
+    height: auto;
+    position: relative;
+    /* bottom: 14px; */
+    /* height: 130px; */
+}
+
+#contactus {
+    text-align: center;
+
+}
+
+#footerlinks {
+    text-decoration: none;
+    color: rgba(8, 28, 5, 1)
+}
+
+
