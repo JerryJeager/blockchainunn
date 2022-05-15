@@ -111,3 +111,6 @@ footer{
 a:focus{
     color: red;
 }
+a:active{
+    color: red;
+}
