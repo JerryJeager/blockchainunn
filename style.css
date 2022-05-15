@@ -6,6 +6,8 @@
     margin: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    height: 1000px;
+    padding-right: 0;
 
 }
 #headerimage{
@@ -31,7 +33,7 @@ right: 20px;
     font-size: 15px;
     display: block;
     text-decoration: none;
-font-family: 'Shadows Into Light', cursive;
+font-family: 'Roboto Slab', serif;
     text-align: center;
     position: relative;
    bottom: 40px;
