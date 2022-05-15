@@ -54,7 +54,7 @@ input {
 }
 
 .formcontent {
-    padding: 4px;
+    /* padding: 4px; */
     position: relative;
     left: 25px;
     bottom: 20px;
