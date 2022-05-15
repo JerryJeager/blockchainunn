@@ -35,13 +35,14 @@
 
 }
 #form{
-    width: 340px;
+    width: 360px;
     height: auto;
     background: rgba(2, 26, 6, 0.849);
     position: relative;
     bottom: 160px;
     border-radius: 20px;
     margin: 0 auto;
+    color: #eee;
 }
 input {
     width: 200px;
