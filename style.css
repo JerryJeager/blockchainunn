@@ -7,10 +7,6 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
     height: 3000px;
-    padding-right: 0;
-    border: 2px solid red;
-    padding-left: 0;
-    margin-right: -80px;
 
 }
 #headerimage{
@@ -81,13 +77,13 @@ font-family: 'Roboto Slab', serif;
     width: 100%;
 }
 #secondimage{
-        width: 60%;
+        width: 70%;
         max-width: 100%;
         height: 299px;
         
 }
 #thirdimage{
-        width: 40%;
+        width: 30%;
         max-width: 100%;
         /* width: 500px; */
         height: 299px;
@@ -144,4 +140,29 @@ footer{
     right: 60px;
     top: 30px;
     /* height: 100px; */
+}
+#companylogo2{
+    width: 100%;
+        height: 140px;
+        display: flex;
+        
+}
+.sponsor3{
+    width: 50%;
+        height: 90px;
+        width: 30%;
+        max-width: 100%;
+        width: 120px;
+        height: 90px;
+        position: relative;
+        left: 60px;
+        top: 15px;
+}
+.sponsor4{
+    width: 70%;
+    width: 250px;
+    height: 240px;
+    position: relative;
+    bottom: 57px;
+    left: 20px;
 }
