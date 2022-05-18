@@ -1,13 +1,25 @@
 .main{
-    background: rgb(8, 28, 5);
-        background: linear-gradient(270deg, rgba(8, 28, 5, 1) 22%, rgba(46, 94, 17, 1) 80%, rgba(91, 190, 18, 1) 100%);
-        background: #ccc;
+        /* background: linear-gradient(270deg, rgba(8, 28, 5, 1) 22%, rgba(46, 94, 17, 1) 80%, rgba(91, 190, 18, 1) 100%); */
+        /* background: #ccc; */
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
     height: 3000px;
 
+}
+#first{
+    width: 100%;
+    height: 3000px;
+    background: #ccc;
+}
+html,body {
+    width: 100%;
+    height: 100%;
+    height: 3000px;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
 #headerimage{
     width: 340px;
