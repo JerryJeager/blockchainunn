@@ -213,6 +213,7 @@ footer{
     text-decoration: none;
     position: relative;
     left: 90px;
+    font-size: 14px;
 }
 #lastlink{
     margin: 0 auto;
