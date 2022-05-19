@@ -75,7 +75,7 @@ body {
   width: 300px;
   /* display: flex; */
   margin: 0 auto;
-  font-family: "Cabin", sans-serif;
+  font-family: 'Baloo 2', cursive;
 }
 #gallery {
   display: flex;
@@ -264,33 +264,32 @@ footer {
   display: flex;
   justify-content: center;
 }
-#fname{
+#fname {
   text-align: center;
   font-size: 18px;
-  font-family: 'Roboto Flex', sans-serif;
+  font-family: "Roboto Flex", sans-serif;
   color: #ccc;
   font-weight: bold;
 }
-#fabout{
+#fabout {
   text-align: center;
   width: 300px;
   position: relative;
   left: 40px;
-
 }
-.fsociallogo{
+.fsociallogo {
   height: 15px;
   width: 14px;
   border-radius: 50%;
 }
-.fsociallogo2{
-height: 15px;
+.fsociallogo2 {
+  height: 15px;
   width: 14px;
- border-radius: 3px;
- position: relative;
- left: 7px;
+  border-radius: 3px;
+  position: relative;
+  left: 7px;
 }
-#fsocial{
+#fsocial {
   margin: 0 auto;
   display: flex;
   justify-content: center;
