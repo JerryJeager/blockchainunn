@@ -75,7 +75,7 @@ body {
   width: 300px;
   /* display: flex; */
   margin: 0 auto;
-  font-family: 'Baloo 2', cursive;
+  font-family: 'Roboto Flex', sans-serif;
 }
 #gallery {
   display: flex;
