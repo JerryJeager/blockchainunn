@@ -91,8 +91,14 @@ footer {
   width: 100%;
   height: auto;
   position: relative;
-  /* bottom: 14px; */
-  /* height: 130px; */
+  top: 30px;
+  width: 100%;
+}
+.footerimage {
+  width: 140px;
+  height: 80px;
+  position: relative;
+  /* right: 20px; */
 }
 
 #contactus {
@@ -102,4 +108,11 @@ footer {
 #footerlinks {
   text-decoration: none;
   color: rgba(8, 28, 5, 1);
+}
+#copyright{
+  text-align: center;
+}
+#lastlink{
+  position: relative;
+  left: 130px;
 }
