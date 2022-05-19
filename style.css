@@ -278,3 +278,20 @@ footer {
   left: 40px;
 
 }
+.fsociallogo{
+  height: 15px;
+  width: 14px;
+  border-radius: 50%;
+}
+.fsociallogo2{
+height: 15px;
+  width: 14px;
+ border-radius: 3px;
+ position: relative;
+ left: 7px;
+}
+#fsocial{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
