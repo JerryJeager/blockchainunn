@@ -164,7 +164,8 @@ footer {
   width: 100%;
   height: auto;
   position: relative;
-  top: 20px;
+  /* top: 20px; */
+  height: 300px;
 
 
   /* height: 130px; */
