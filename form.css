@@ -85,8 +85,10 @@ select {
   height: 40px;
   font-size: 16px;
   background: rgb(50, 187, 8);
-  position: relative;
-  left: 110px;
+}
+#submitbutton{
+  display: flex;
+  justify-content: center;
 }
 
 #timeofday {
@@ -123,3 +125,48 @@ footer {
   position: relative;
   left: 110px;
 }
+@media screen and (min-width: 768px) {
+     #headerimage {
+  width: 440px;
+  height: 500px;
+}
+#navigation {
+    font-size: 19px;
+}
+#form {
+  width: 650px;
+  height: auto;
+}
+input {
+  width: 570px;
+  height: 30px;
+  font-size: 23px;
+}
+.formcontent {
+  font-size: 23px;
+}
+select {
+  width: 470px;
+  height: 30px;
+  font-size: 23px;
+}
+#submit {
+  border-radius: 10px;
+  height: 60px;
+  width: 100px;
+  font-size: 20px;
+}
+.footerimage {
+  width: 240px;
+  height: 110px;
+}
+#footerlinks {
+  position: relative;
+  left: 200px;
+  font-size: 19px;
+}
+#copyright{
+  font-size: 17px;
+}
+
+ }

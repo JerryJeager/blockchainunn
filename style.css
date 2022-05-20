@@ -287,9 +287,8 @@ footer {
   width: 14px;
 }
 #sociallink {
-  position: relative;
-  left: 150px;
-  bottom: 10px;
+  display: flex;
+  justify-content: center;
 }
 .founders {
   width: 140px;
@@ -479,11 +478,6 @@ footer {
   }
   footer {
     height: 430px;
-  }
-  #sociallink {
-    position: relative;
-    left: 320px;
-    bottom: 10px;
   }
   #twitter {
     height: 25px;
