@@ -258,14 +258,20 @@ footer {
   display: inline;
   text-align: center;
   text-decoration: none;
-  position: relative;
-  left: 90px;
   font-size: 14px;
+}
+.lastlink2{
+  color: rgba(8, 28, 5, 1);
+  display: inline;
+  text-align: center;
+   text-decoration: none;
+   font-size: 14px;
 }
 #lastlink {
   margin: 0 auto;
   display: inline;
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 #twitter {
   height: 15px;
@@ -497,8 +503,9 @@ footer {
   }
   .lastlink {
     font-size: 25px;
-    position: relative;
-    left: 220px;
+  }
+  .lastlink2{
+    font-size: 25px;
   }
   #copyright {
     font-size: 19px;
